@@ -1,0 +1,13 @@
+small dataset
+zero/less noise dataset
+continuous feature data
+low scaled data / scaling
+no relationship in between indepedent
+
+
+Distance:
+Euclidian Distance
+Manhattan Distance
+
+
+do decide the middle value we try to use elbow method
