@@ -11,3 +11,7 @@ Manhattan Distance
 
 
 do decide the middle value we try to use elbow method
+
+scaling two types ---> MinMaxscaler   StandardScaler
+
+z-score=  x-mean/std(standard deviation)
