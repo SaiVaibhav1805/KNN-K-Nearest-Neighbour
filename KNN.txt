@@ -6,8 +6,10 @@ no relationship in between indepedent
 
 
 Distance:
-Euclidian Distance
-Manhattan Distance
+Euclidian Distance --> used to find the direct distance i.e x to y directly
+Manhattan Distance --> used to find the distance in a grid format
+Minkswi Distance --> Generalized distance'
+Hamming distance -->Bi 
 
 
 do decide the middle value we try to use elbow method
@@ -15,3 +17,17 @@ do decide the middle value we try to use elbow method
 scaling two types ---> MinMaxscaler   StandardScaler
 
 z-score=  x-mean/std(standard deviation)
+
+--> classfication system
+--> recommendation system
+--> pattern recognition
+--> handwriting recognition
+--> disease recognition
+
+KNN works on data and similarity and distance
+
+How KNN works:-
+1.Choose the K-value
+2.Find nearest k neighbours (for instance k=3)
+3.check majority class 
+4.Assign predicted class
